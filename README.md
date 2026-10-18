@@ -49,3 +49,9 @@ This action catches leaks. For a **complete RLS policy audit** (40+ checks, SQL 
 ## License
 
 MIT
+
+## Free pre-launch checklist
+
+10 checks that catch the common Next.js + Supabase launch mistakes (free, instant download): https://cengokurtoglu.gumroad.com/l/nextjs-supabase-10-checks-free
+
+More security tooling and review kits: https://cengokurtoglu.gumroad.com
